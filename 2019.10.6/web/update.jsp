@@ -1,11 +1,12 @@
 <%--
   Created by IntelliJ IDEA.
   User: miaoz
-  Date: 2019/10/6
-  Time: 23:40
+  Date: 2019/10/7
+  Time: 00:22
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=utf-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <!DOCTYPE html>
 <html >
 <head>
@@ -83,15 +84,11 @@
 <body>
 
 <div class="login">
-    <h1>register</h1>
-    <form action="regist.action" method="post">
+    <h1>修改密码</h1>
+    <form action="update.action" method="post">
         <input type="text" name="username" placeholder="用户名" required="required" />
         <input type="password" name="password" placeholder="密码" required="required" />
+        <input type="password" name="newpassword" placeholder="新密码" required="required" />
         <button type="submit" class="btn btn-primary btn-block btn-large">register</button>
     </form>
 </div>
-
-
-
-</body>
-</html>

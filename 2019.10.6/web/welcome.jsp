@@ -7,13 +7,16 @@
 --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<%@taglib uri="/struts-tags" prefix="s"%>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Insert title here</title>
 </head>
 <body>
-您已经执行成功！
+欢迎！！！<br>
+<%--<span>您是第<s:property value="#session.userid"></s:property>名用户</span><br>--%>
+<span>账户名：<s:property value="#session.username" /></span><br>
+<span>密码：<s:property value="#session.userpassword"></s:property> </span>
 </body>
 </html>

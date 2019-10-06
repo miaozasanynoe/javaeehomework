@@ -14,5 +14,9 @@
             <result name="error">/error.jsp</result>
             <result name="success">/welcome.jsp</result>
         </action>
+        <action name="update" class="com.UserAction" method="update">
+            <result name="error">/error.jsp</result>
+            <result name="success">/login.jsp</result>
+        </action>
     </package>
 </struts>

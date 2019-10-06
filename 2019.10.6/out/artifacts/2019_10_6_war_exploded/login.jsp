@@ -5,10 +5,11 @@
   Time: 23:40
   To change this template use File | Settings | File Templates.
 --%>
+<%@ page contentType="text/html;charset=utf-8" language="java" %>
 <!DOCTYPE html>
 <html >
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <title>Login Form</title>
 
     <link rel="stylesheet" href="css/normalize.css">
