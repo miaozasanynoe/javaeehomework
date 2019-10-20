@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../android-sdk-macosx/tools/apps/SdkController/src" />
+      <root url="file://$PROJECT_DIR$/../android-sdk-macosx/tools/proguard/examples/annotations/examples" />
+      <root url="file://$PROJECT_DIR$/../android-sdk-macosx/tools/proguard/examples/annotations/src" />
+    </SOURCES>
+  </library>
+</component>
