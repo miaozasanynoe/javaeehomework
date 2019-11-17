@@ -6,27 +6,88 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2a873b-e427-4d73-a836-423458e28b29" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="2a2a873b-e427-4d73-a836-423458e28b29" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../2019.10.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/artifacts/2019_11_17_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/artifacts/untitled_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/2019.11.17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/web/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17_furk/2019.11.17_furk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019.11.17_furk/java_10.20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/JAVAEE1117.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/action/UserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/util/HibernateSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/vo/Cj.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/vo/Cj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/vo/CjPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/vo/UserTable.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/org/vo/UserTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/java/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/test/java/Exert3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/src/test/java/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/freemarker-2.3.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/hibernate-core-5.4.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/log4j-api-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/mariadb-java-client-2.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/ognl-3.1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/lib/struts2-core-2.5.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVAEE1117/web/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaoza/2019.11.17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019.10.7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/commons-io-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/commons-lang-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/commons-lang3-3.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/freemarker-2.3.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/javassist-3.20.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/log4j-api-2.11.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/mysql-connector-java-5.1.39-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/ognl-3.1.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019.10.7/web/WEB-INF/bin/struts2-core-2.5.20.jar" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,34 +98,8 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/dao/dao.java" />
-        <option value="$PROJECT_DIR$/src/test/dbtest.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/error.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/welcome.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/regist.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/login.jsp" />
-        <option value="$PROJECT_DIR$/src/dao/Dao.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/update.jsp" />
-        <option value="$PROJECT_DIR$/src/struts.xml" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/web/login.jsp" />
-        <option value="$PROJECT_DIR$/web/regist.jsp" />
-        <option value="$PROJECT_DIR$/web/update.jsp" />
-        <option value="$PROJECT_DIR$/web/welcome.jsp" />
-        <option value="$PROJECT_DIR$/src/com/UserAction.java" />
-        <option value="$PROJECT_DIR$/web/error.jsp" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -73,56 +108,8 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="2019.10.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019.10.6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019.10.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019.10.6" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019.10.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019.10.6" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019.10.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019.10.6" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019.10.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1STOpVrj28zQ7fAquPxqoJ3FzD0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -166,9 +153,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="dbtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.dbtest" />
@@ -180,44 +173,25 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Tomcat 8.5.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.46" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
@@ -230,11 +204,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_46_2019_10_6" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -250,16 +224,17 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method>
+      <method v="2">
+        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="2019.10.6:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 8.5.46" />
       <item itemvalue="Application.dbtest" />
       <item itemvalue="Application.Dao" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.46" />
     </list>
     <recent_temporary>
       <list>
@@ -285,99 +260,28 @@
       <workItem from="1570381479332" duration="110000" />
       <workItem from="1570523822842" duration="31000" />
       <workItem from="1571558150422" duration="740000" />
+      <workItem from="1571584304399" duration="6000" />
+      <workItem from="1573973381721" duration="7000" />
+      <workItem from="1573979762166" duration="167000" />
+      <workItem from="1573989344218" duration="1058000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9889000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="1" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Flutter Outline" order="4" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31709743" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Flutter Inspector" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/com/UserAction.java" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/src/dao/Dao.java" />
-    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/com/UserAction.java" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/src/dao/Dao.java" />
-    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/test/dbtest.java" />
-    <entry file="file://$PROJECT_DIR$/src/dao/Dao.java" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/src/struts.xml" />
-    <entry file="file://$PROJECT_DIR$/web/update.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/welcome.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/regist.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/login.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/com/UserAction.java" />
-    <entry file="file://$PROJECT_DIR$/web/error.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
